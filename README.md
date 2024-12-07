@@ -8,7 +8,7 @@ currently working on a binary to binary obfuscator, and a symbolic execution bas
 
 
 
-16 years old, name is david
+16 years old
 
 my discord: @_li4321
 
